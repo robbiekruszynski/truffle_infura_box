@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { UPDATE_THIS } from "./abi/abi";
 import { ethers } from 'ethers';
