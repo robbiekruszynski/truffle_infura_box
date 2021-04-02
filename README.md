@@ -20,11 +20,11 @@ link : https://reactjs.org/docs/getting-started.html
 
 ## Make sure you've installed
 
-Will be using Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.
-
 #### HD Wallet-provider
 
 LINK https://github.com/trufflesuite/truffle/tree/master/packages/hdwallet-provider#readme
+
+Will be using Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.
 
 ##### We are going to use version 1.2.2 for our hdwalletprovider in this box
 
@@ -38,7 +38,7 @@ GUI download found here: [https://www.trufflesuite.com/ganache]
 
 Command to install the CLI
 
-`yarn global add ganache-cli`
+`npm i ganache-cli`
 
 #### Mnemonic Generator
 
@@ -49,19 +49,16 @@ if you need one here is a link
 
 # Instructions on how to use this box:
 
-### Step 1: We will start by running the command
+### Unpacking this box should auto run
 
-`yarn`
+`npm install`
 
-![ScreenShot](./src/assets/yarn.gif)
 
 ### Step 2: Next get Ganache up and running
 
-navigate to the folder back-end
 
-`cd back-end`
 
-Now that your in the folder holding our truffle.config (along with other files) You can start Ganache
+In root folder holding our truffle.config (along with other files) You can start Ganache
 
 you can do this with the GUI or CLI (be sure your on port: 8545)
 
