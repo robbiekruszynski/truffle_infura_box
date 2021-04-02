@@ -20,16 +20,7 @@ link : https://reactjs.org/docs/getting-started.html
 
 ## Make sure you've installed
 
-#### yarn
-
-Firsly this requires you have yarn installed
-(On the chance you don't you can find out more about it in the link below)
-
-[https://classic.yarnpkg.com/en/docs/install/#mac-stable]
-
-`npm install --global yarn`
-
-Next up we will be using Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.
+Will be using Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.
 
 #### HD Wallet-provider
 
