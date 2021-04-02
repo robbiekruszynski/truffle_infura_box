@@ -53,10 +53,7 @@ if you need one here is a link
 
 `npm install`
 
-
 ### Step 2: Next get Ganache up and running
-
-
 
 In root folder holding our truffle.config (along with other files) You can start Ganache
 
@@ -133,11 +130,11 @@ Once you've added your logic you can in your terminal run
 
 To spin up the bones of the project run
 
-`yarn start`
+`npm start`
 
 which should deploy at localhost: 3000
 
-![ScreenShot](./src/assets/TTB.png)
+![ScreenShot](./src/assets/npm.gif)
 
 You have a build folder that was created when you did a compile / migrate. Pending on how many contracts you have you'll see a JSON file which contants an ABI.
 
