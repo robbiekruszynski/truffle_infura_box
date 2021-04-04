@@ -2,6 +2,8 @@
 
 This is a box that ideally gets you set up with the basic scaffolding that gives you the ability to add your own logic without having to worry about the nuts and bolts. You'll need to do a few things on your end but this should get you up and going with project that uses React + Truffle + Infura which can deploy to the rinkeby testnet ( you can of course re- configure this to deploy to another desired network).
 
+This project assumes your have some coding chops + npm
+
 ## STACK
 
 ### TRUFFLE
