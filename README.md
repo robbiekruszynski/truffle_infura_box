@@ -91,14 +91,13 @@ Next we will want to define the wallet we will be using to deploy
 ### Step 4: Get set up with Infura
 
 Head over to your dashboard on Infura
-grab your project ID and update the secrets.json file with that ID
-Remove from string.
+grab your project ID and update the secrets.json file with that ID.
+
+![ScreenShot](./src/assets/infura.png)
 
 While you are here go ahead and add the same mnemonic you used for your wallet. Keep your mnemonic in a string.
 
-Delete the IMPORTANT NOTE that lives in the file. That is just to remind you of the important of keeping this information secure.
-
-![ScreenShot](./src/assets/infura.png)
+![ScreenShot](./src/assets/secrets.png)
 
 ### Step 5: Acquire Rinkeby
 
