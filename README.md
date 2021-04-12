@@ -70,6 +70,9 @@ you should now see in your terminal
 
 Open up another tab to work out of while keeping the CLI up and running
 
+otherwise go ahead and click up the ganache GUI
+![ScreenShot](./src/assets/gui.png)
+
 ### Step 3: Define your wallet
 
 Next we will want to define the wallet we will be using to deploy
